@@ -7,6 +7,6 @@ public class Main
 	{
 		
 		Movie.displayMenu();
-		///adfl;jahd;lf ha;ldfjaz
+		
 	}
 }
